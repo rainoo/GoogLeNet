@@ -1,0 +1,285 @@
+D:\miniconda3\envs\pytorch\python.exe D:\PyCharmProjects\GoogLeNet\model_train.py
+device: cuda
+开始训练时间：Sun Nov 17 18:00:13 2024
+Epoch 1/20
+----------
+Train Batch:1/320 in Epoch 1, Time use: 0.64s
+Train Batch:51/320 in Epoch 1, Time use: 13.63s
+Train Batch:101/320 in Epoch 1, Time use: 13.72s
+Train Batch:151/320 in Epoch 1, Time use: 13.67s
+Train Batch:201/320 in Epoch 1, Time use: 13.80s
+Train Batch:251/320 in Epoch 1, Time use: 13.79s
+Train Batch:301/320 in Epoch 1, Time use: 13.83s
+Val Batch:1/80 in Epoch 1, Time use: 5.37s
+Val Batch:51/80 in Epoch 1, Time use: 6.04s
+1 train_loss:0.9510 train_acc: 0.6782
+1 val_loss:0.4259 val_acc: 0.8476
+训练和验证耗费的时间: 1m 38s
+Epoch 2/20
+----------
+Train Batch:1/320 in Epoch 2, Time use: 0.28s
+Train Batch:51/320 in Epoch 2, Time use: 13.86s
+Train Batch:101/320 in Epoch 2, Time use: 13.83s
+Train Batch:151/320 in Epoch 2, Time use: 13.85s
+Train Batch:201/320 in Epoch 2, Time use: 13.93s
+Train Batch:251/320 in Epoch 2, Time use: 13.87s
+Train Batch:301/320 in Epoch 2, Time use: 13.89s
+Val Batch:1/80 in Epoch 2, Time use: 5.42s
+Val Batch:51/80 in Epoch 2, Time use: 6.01s
+2 train_loss:0.3799 train_acc: 0.8585
+2 val_loss:0.3272 val_acc: 0.8792
+训练和验证耗费的时间: 3m 16s
+Epoch 3/20
+----------
+Train Batch:1/320 in Epoch 3, Time use: 0.27s
+Train Batch:51/320 in Epoch 3, Time use: 13.85s
+Train Batch:101/320 in Epoch 3, Time use: 13.84s
+Train Batch:151/320 in Epoch 3, Time use: 13.86s
+Train Batch:201/320 in Epoch 3, Time use: 13.89s
+Train Batch:251/320 in Epoch 3, Time use: 13.89s
+Train Batch:301/320 in Epoch 3, Time use: 13.87s
+Val Batch:1/80 in Epoch 3, Time use: 5.42s
+Val Batch:51/80 in Epoch 3, Time use: 5.98s
+3 train_loss:0.3084 train_acc: 0.8854
+3 val_loss:0.2843 val_acc: 0.8972
+训练和验证耗费的时间: 4m 55s
+Epoch 4/20
+----------
+Train Batch:1/320 in Epoch 4, Time use: 0.29s
+Train Batch:51/320 in Epoch 4, Time use: 13.87s
+Train Batch:101/320 in Epoch 4, Time use: 13.87s
+Train Batch:151/320 in Epoch 4, Time use: 13.87s
+Train Batch:201/320 in Epoch 4, Time use: 13.84s
+Train Batch:251/320 in Epoch 4, Time use: 13.88s
+Train Batch:301/320 in Epoch 4, Time use: 13.91s
+Val Batch:1/80 in Epoch 4, Time use: 5.42s
+Val Batch:51/80 in Epoch 4, Time use: 6.06s
+4 train_loss:0.2677 train_acc: 0.9000
+4 val_loss:0.2733 val_acc: 0.8962
+训练和验证耗费的时间: 6m 33s
+Epoch 5/20
+----------
+Train Batch:1/320 in Epoch 5, Time use: 0.28s
+Train Batch:51/320 in Epoch 5, Time use: 13.91s
+Train Batch:101/320 in Epoch 5, Time use: 13.89s
+Train Batch:151/320 in Epoch 5, Time use: 13.90s
+Train Batch:201/320 in Epoch 5, Time use: 13.91s
+Train Batch:251/320 in Epoch 5, Time use: 13.86s
+Train Batch:301/320 in Epoch 5, Time use: 13.91s
+Val Batch:1/80 in Epoch 5, Time use: 5.43s
+Val Batch:51/80 in Epoch 5, Time use: 6.11s
+5 train_loss:0.2426 train_acc: 0.9089
+5 val_loss:0.2655 val_acc: 0.9061
+训练和验证耗费的时间: 8m 12s
+Epoch 6/20
+----------
+Train Batch:1/320 in Epoch 6, Time use: 0.28s
+Train Batch:51/320 in Epoch 6, Time use: 13.94s
+Train Batch:101/320 in Epoch 6, Time use: 13.89s
+Train Batch:151/320 in Epoch 6, Time use: 13.91s
+Train Batch:201/320 in Epoch 6, Time use: 13.85s
+Train Batch:251/320 in Epoch 6, Time use: 13.84s
+Train Batch:301/320 in Epoch 6, Time use: 13.90s
+Val Batch:1/80 in Epoch 6, Time use: 5.39s
+Val Batch:51/80 in Epoch 6, Time use: 6.12s
+6 train_loss:0.2270 train_acc: 0.9166
+6 val_loss:0.2243 val_acc: 0.9194
+训练和验证耗费的时间: 9m 51s
+Epoch 7/20
+----------
+Train Batch:1/320 in Epoch 7, Time use: 0.28s
+Train Batch:51/320 in Epoch 7, Time use: 13.88s
+Train Batch:101/320 in Epoch 7, Time use: 13.89s
+Train Batch:151/320 in Epoch 7, Time use: 13.91s
+Train Batch:201/320 in Epoch 7, Time use: 13.83s
+Train Batch:251/320 in Epoch 7, Time use: 13.87s
+Train Batch:301/320 in Epoch 7, Time use: 13.98s
+Val Batch:1/80 in Epoch 7, Time use: 5.43s
+Val Batch:51/80 in Epoch 7, Time use: 6.08s
+7 train_loss:0.2096 train_acc: 0.9227
+7 val_loss:0.2193 val_acc: 0.9158
+训练和验证耗费的时间: 11m 29s
+Epoch 8/20
+----------
+Train Batch:1/320 in Epoch 8, Time use: 0.29s
+Train Batch:51/320 in Epoch 8, Time use: 13.88s
+Train Batch:101/320 in Epoch 8, Time use: 13.88s
+Train Batch:151/320 in Epoch 8, Time use: 13.84s
+Train Batch:201/320 in Epoch 8, Time use: 13.86s
+Train Batch:251/320 in Epoch 8, Time use: 13.86s
+Train Batch:301/320 in Epoch 8, Time use: 13.89s
+Val Batch:1/80 in Epoch 8, Time use: 5.42s
+Val Batch:51/80 in Epoch 8, Time use: 6.06s
+8 train_loss:0.1945 train_acc: 0.9284
+8 val_loss:0.2230 val_acc: 0.9190
+训练和验证耗费的时间: 13m 8s
+Epoch 9/20
+----------
+Train Batch:1/320 in Epoch 9, Time use: 0.28s
+Train Batch:51/320 in Epoch 9, Time use: 13.86s
+Train Batch:101/320 in Epoch 9, Time use: 13.83s
+Train Batch:151/320 in Epoch 9, Time use: 13.87s
+Train Batch:201/320 in Epoch 9, Time use: 13.83s
+Train Batch:251/320 in Epoch 9, Time use: 13.99s
+Train Batch:301/320 in Epoch 9, Time use: 13.96s
+Val Batch:1/80 in Epoch 9, Time use: 5.42s
+Val Batch:51/80 in Epoch 9, Time use: 6.04s
+9 train_loss:0.1845 train_acc: 0.9322
+9 val_loss:0.2265 val_acc: 0.9157
+训练和验证耗费的时间: 14m 46s
+Epoch 10/20
+----------
+Train Batch:1/320 in Epoch 10, Time use: 0.28s
+Train Batch:51/320 in Epoch 10, Time use: 13.90s
+Train Batch:101/320 in Epoch 10, Time use: 13.87s
+Train Batch:151/320 in Epoch 10, Time use: 13.88s
+Train Batch:201/320 in Epoch 10, Time use: 13.86s
+Train Batch:251/320 in Epoch 10, Time use: 13.90s
+Train Batch:301/320 in Epoch 10, Time use: 13.81s
+Val Batch:1/80 in Epoch 10, Time use: 5.41s
+Val Batch:51/80 in Epoch 10, Time use: 6.01s
+10 train_loss:0.1712 train_acc: 0.9368
+10 val_loss:0.2364 val_acc: 0.9178
+训练和验证耗费的时间: 16m 25s
+Epoch 11/20
+----------
+Train Batch:1/320 in Epoch 11, Time use: 0.27s
+Train Batch:51/320 in Epoch 11, Time use: 13.83s
+Train Batch:101/320 in Epoch 11, Time use: 13.88s
+Train Batch:151/320 in Epoch 11, Time use: 13.88s
+Train Batch:201/320 in Epoch 11, Time use: 13.88s
+Train Batch:251/320 in Epoch 11, Time use: 13.85s
+Train Batch:301/320 in Epoch 11, Time use: 13.87s
+Val Batch:1/80 in Epoch 11, Time use: 5.42s
+Val Batch:51/80 in Epoch 11, Time use: 6.02s
+11 train_loss:0.1713 train_acc: 0.9371
+11 val_loss:0.2201 val_acc: 0.9243
+训练和验证耗费的时间: 18m 3s
+Epoch 12/20
+----------
+Train Batch:1/320 in Epoch 12, Time use: 0.28s
+Train Batch:51/320 in Epoch 12, Time use: 13.91s
+Train Batch:101/320 in Epoch 12, Time use: 13.84s
+Train Batch:151/320 in Epoch 12, Time use: 13.86s
+Train Batch:201/320 in Epoch 12, Time use: 13.86s
+Train Batch:251/320 in Epoch 12, Time use: 13.85s
+Train Batch:301/320 in Epoch 12, Time use: 13.89s
+Val Batch:1/80 in Epoch 12, Time use: 5.42s
+Val Batch:51/80 in Epoch 12, Time use: 6.09s
+12 train_loss:0.1514 train_acc: 0.9434
+12 val_loss:0.2241 val_acc: 0.9232
+训练和验证耗费的时间: 19m 42s
+Epoch 13/20
+----------
+Train Batch:1/320 in Epoch 13, Time use: 0.28s
+Train Batch:51/320 in Epoch 13, Time use: 13.86s
+Train Batch:101/320 in Epoch 13, Time use: 13.87s
+Train Batch:151/320 in Epoch 13, Time use: 13.87s
+Train Batch:201/320 in Epoch 13, Time use: 13.92s
+Train Batch:251/320 in Epoch 13, Time use: 13.85s
+Train Batch:301/320 in Epoch 13, Time use: 13.88s
+Val Batch:1/80 in Epoch 13, Time use: 5.41s
+Val Batch:51/80 in Epoch 13, Time use: 6.10s
+13 train_loss:0.1484 train_acc: 0.9446
+13 val_loss:0.2365 val_acc: 0.9156
+训练和验证耗费的时间: 21m 20s
+Epoch 14/20
+----------
+Train Batch:1/320 in Epoch 14, Time use: 0.28s
+Train Batch:51/320 in Epoch 14, Time use: 13.85s
+Train Batch:101/320 in Epoch 14, Time use: 13.88s
+Train Batch:151/320 in Epoch 14, Time use: 13.87s
+Train Batch:201/320 in Epoch 14, Time use: 13.91s
+Train Batch:251/320 in Epoch 14, Time use: 13.86s
+Train Batch:301/320 in Epoch 14, Time use: 13.85s
+Val Batch:1/80 in Epoch 14, Time use: 5.43s
+Val Batch:51/80 in Epoch 14, Time use: 6.07s
+14 train_loss:0.1357 train_acc: 0.9506
+14 val_loss:0.2473 val_acc: 0.9124
+训练和验证耗费的时间: 22m 59s
+Epoch 15/20
+----------
+Train Batch:1/320 in Epoch 15, Time use: 0.28s
+Train Batch:51/320 in Epoch 15, Time use: 13.84s
+Train Batch:101/320 in Epoch 15, Time use: 13.86s
+Train Batch:151/320 in Epoch 15, Time use: 13.83s
+Train Batch:201/320 in Epoch 15, Time use: 13.87s
+Train Batch:251/320 in Epoch 15, Time use: 13.86s
+Train Batch:301/320 in Epoch 15, Time use: 13.89s
+Val Batch:1/80 in Epoch 15, Time use: 5.40s
+Val Batch:51/80 in Epoch 15, Time use: 6.02s
+15 train_loss:0.1292 train_acc: 0.9512
+15 val_loss:0.2241 val_acc: 0.9208
+训练和验证耗费的时间: 24m 37s
+Epoch 16/20
+----------
+Train Batch:1/320 in Epoch 16, Time use: 0.28s
+Train Batch:51/320 in Epoch 16, Time use: 13.89s
+Train Batch:101/320 in Epoch 16, Time use: 13.89s
+Train Batch:151/320 in Epoch 16, Time use: 13.88s
+Train Batch:201/320 in Epoch 16, Time use: 13.83s
+Train Batch:251/320 in Epoch 16, Time use: 13.85s
+Train Batch:301/320 in Epoch 16, Time use: 13.90s
+Val Batch:1/80 in Epoch 16, Time use: 5.40s
+Val Batch:51/80 in Epoch 16, Time use: 6.30s
+16 train_loss:0.1249 train_acc: 0.9546
+16 val_loss:0.2231 val_acc: 0.9273
+训练和验证耗费的时间: 26m 16s
+Epoch 17/20
+----------
+Train Batch:1/320 in Epoch 17, Time use: 0.27s
+Train Batch:51/320 in Epoch 17, Time use: 13.85s
+Train Batch:101/320 in Epoch 17, Time use: 13.90s
+Train Batch:151/320 in Epoch 17, Time use: 13.89s
+Train Batch:201/320 in Epoch 17, Time use: 13.82s
+Train Batch:251/320 in Epoch 17, Time use: 13.87s
+Train Batch:301/320 in Epoch 17, Time use: 13.89s
+Val Batch:1/80 in Epoch 17, Time use: 5.42s
+Val Batch:51/80 in Epoch 17, Time use: 6.28s
+17 train_loss:0.1175 train_acc: 0.9566
+17 val_loss:0.2224 val_acc: 0.9280
+训练和验证耗费的时间: 27m 55s
+Epoch 18/20
+----------
+Train Batch:1/320 in Epoch 18, Time use: 0.29s
+Train Batch:51/320 in Epoch 18, Time use: 13.89s
+Train Batch:101/320 in Epoch 18, Time use: 13.90s
+Train Batch:151/320 in Epoch 18, Time use: 13.84s
+Train Batch:201/320 in Epoch 18, Time use: 13.82s
+Train Batch:251/320 in Epoch 18, Time use: 13.86s
+Train Batch:301/320 in Epoch 18, Time use: 13.89s
+Val Batch:1/80 in Epoch 18, Time use: 5.51s
+Val Batch:51/80 in Epoch 18, Time use: 6.27s
+18 train_loss:0.1035 train_acc: 0.9621
+18 val_loss:0.2504 val_acc: 0.9205
+训练和验证耗费的时间: 29m 34s
+Epoch 19/20
+----------
+Train Batch:1/320 in Epoch 19, Time use: 0.28s
+Train Batch:51/320 in Epoch 19, Time use: 14.14s
+Train Batch:101/320 in Epoch 19, Time use: 14.15s
+Train Batch:151/320 in Epoch 19, Time use: 14.17s
+Train Batch:201/320 in Epoch 19, Time use: 14.17s
+Train Batch:251/320 in Epoch 19, Time use: 14.14s
+Train Batch:301/320 in Epoch 19, Time use: 14.17s
+Val Batch:1/80 in Epoch 19, Time use: 5.52s
+Val Batch:51/80 in Epoch 19, Time use: 6.27s
+19 train_loss:0.1024 train_acc: 0.9615
+19 val_loss:0.2494 val_acc: 0.9265
+训练和验证耗费的时间: 31m 14s
+Epoch 20/20
+----------
+Train Batch:1/320 in Epoch 20, Time use: 0.28s
+Train Batch:51/320 in Epoch 20, Time use: 14.17s
+Train Batch:101/320 in Epoch 20, Time use: 14.19s
+Train Batch:151/320 in Epoch 20, Time use: 14.14s
+Train Batch:201/320 in Epoch 20, Time use: 14.18s
+Train Batch:251/320 in Epoch 20, Time use: 14.11s
+Train Batch:301/320 in Epoch 20, Time use: 14.13s
+Val Batch:1/80 in Epoch 20, Time use: 5.51s
+Val Batch:51/80 in Epoch 20, Time use: 6.26s
+20 train_loss:0.0986 train_acc: 0.9633
+20 val_loss:0.2568 val_acc: 0.9257
+训练和验证耗费的时间: 32m 55s
+
+进程已结束，退出代码为 0
